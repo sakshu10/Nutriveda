@@ -82,7 +82,7 @@ if 'selected_disease_info' not in st.session_state:
     st.session_state['selected_disease_info'] = None
 
 # --- CSV File Path ---
-CSV_FILE_PATH = r"C:\Users\SAKSHI\Desktop\Streamlit\nuitrion data .csv"  # Corrected filename
+CSV_FILE_PATH = r"'C:/Users/SAKSHI/Desktop/Streamlit/nutrition data.csv"  # Corrected filename
 
 # --- Load Data ---
 @st.cache_data
