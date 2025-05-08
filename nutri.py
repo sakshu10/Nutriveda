@@ -82,13 +82,13 @@ if 'selected_disease_info' not in st.session_state:
     st.session_state['selected_disease_info'] = None
 
 # --- CSV File Path ---
-CSV_FILE_PATH = r"'C:/Users/SAKSHI/Desktop/Streamlit/nutrition data.csv"  # Corrected filename
+CSV_FILE_PATH = r"C:\Users\SAKSHI\Desktop\Streamlit\nuitrion data .csv"  # Corrected filename
 
 # --- Load Data ---
 @st.cache_data
 def load_data(filepath):
     try:
-        df = pd.read_csv(filepath, encoding='cp1252')
+        df = pd.read_csv("nuitrion data .csv", encoding='cp1252')
         df.columns = df.columns.str.strip()
         required_cols = [
             "Disease Name", "Disease Category", "Key Symptoms",
