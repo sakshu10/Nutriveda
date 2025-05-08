@@ -1,0 +1,72 @@
+Disease Name,Disease Category,Key Symptoms,Nutritional Considerations,Foods to Emphasize,Foods to Limit/Avoid
+Irritable Bowel Syndrome (IBS),Digestive Disorder,"Abdominal pain, bloating, gas, diarrhea, and/or constipation","Identifying and avoiding trigger foods, managing fiber intake, potentially a low-FODMAP diet","Easily digestible foods, soluble fiber (oats, psyllium), lean proteins, probiotics (if tolerated)","High-FODMAP
+foods (certain fruits, vegetables, grains, dairy), processed foods, caffeine, alcohol, artificial sweeteners, fatty foods (individual triggers vary)"
+Crohn's Disease,Inflammatory Bowel Disease,"Abdominal pain, diarrhea, weight loss, fatigue, malnutrition","Managing inflammation, replacing nutrient losses, maintaining adequate calorie and protein intake","Easily digestible foods, low-fiber options during flares, small frequent meals, liquid nutritional supplements (if needed)","High-fiber foods, fatty/fried foods, dairy (if intolerant), spicy foods, caffeine, alcohol (individual tolerances
+vary)"
+Ulcerative Colitis,Inflammatory Bowel Disease,"Diarrhea (often with blood), abdominal pain, urgency, weight loss, anemia","Managing inflammation, replacing nutrient losses, maintaining adequate calorie and protein intake","Easily digestible foods, low-fiber options during flares, small frequent meals, liquid nutritional supplements (if needed)","High-fiber foods, fatty/fried foods, dairy (if intolerant), spicy foods, caffeine, alcohol (individual tolerances
+vary)"
+Chronic Kidney Disease (CKD),Renal,"Fatigue, swelling, changes in urination, nausea, loss of appetite","Managing electrolyte balance (sodium, potassium, phosphorus),limiting protein (in later stages), fluid management","Low-sodium foods, controlled potassium and phosphorus foods,adequate calorie intake with healthy fats and limited protein (as advised)","High-sodium foods,
+high-potassium foods (e.g., bananas,
+tomatoes), high-phosphoru s foods (e.g., dairy, beans, nuts), excessive protein (especially in later stages), processed
+foods"
+Heart Failure,Cardiovascular,"Shortness of breath, fatigue, swelling in legs and ankles, rapid heartbeat","Sodium restriction, fluid management, adequate potassium intake (if not on certain medications)","Fresh fruits and vegetables (with attention to potassium levels), whole grains, lean proteins,
+low-sodium
+options","High-sodium foods, excessive fluids, saturated and trans fats, processed foods"
+Gout,Metabolic,"Sudden, severe pain in joints (often the big toe), redness, swelling","Managing uric acid levels through diet, maintaining a healthy weight, limiting alcohol","Cherries, low-fat dairy, complex
+carbohydrates, plenty of water","High-purine foods (red meat, organ meats, some seafood), fructose-sweet ened drinks, excessive alcohol (especially
+beer)"
+Hypothyroidis m,Endocrine,"Fatigue, weight gain, feeling cold, dry skin, hair loss","Ensuring adequate iodine intake, addressing potential nutrient deficiencies (e.g., selenium, iron)","Iodized salt, seafood, eggs, foods rich in selenium (Brazil nuts, tuna, sardines), foods rich in iron (red meat, spinach, lentils)","Excessive intake of goitrogenic foods (cruciferous vegetables like broccoli, cabbage, kale) in raw form, highly processed foods"
+Hyperthyroidi sm,Endocrine,"Weight loss, rapid heartbeat, anxiety, sweating, increased appetite","Managing iodine intake, avoiding excessive iodine,  ensuring adequate calorie intake to compensate for increased
+metabolism","Foods low in iodine, adequate calories,nutrients to support increased metabolism","High-iodine foods (iodized salt, seaweed, seafood),excessive caffeine"
+Osteoarthritis,Musculoskeleta l,"Joint pain, stiffness, reduced range of motion","Maintaining a healthy weight, anti-inflammato ry diet may be beneficial","Fruits, vegetables, whole grains, healthy fats (omega-3s  from fatty fish, flaxseeds), lean proteins","Processed foods, excessive saturated and trans fats, sugary drinks (to help maintain healthy weight)"
+Rheumatoid Arthritis,Autoimmune,"Joint pain, swelling, stiffness, fatigue",Anti-inflammato ry diet may help manage symptoms,"Fruits, vegetables, whole grains, healthy fats (omega-3s  from fatty fish, flaxseeds), lean proteins, foods rich in antioxidants","Processed foods, excessive saturated and trans fats, sugary drinks (potential inflammatory effects - individual triggers may vary)"
+ Diabetes, Metabolic Disorder," Increased thirst, frequent urination","Focus on blood sugar control, weight management, adequate fiber intake"," Whole grains,
+non-starchy vegetables, lean proteins, healthy fats"," Sugary drinks, processed foods, refined carbohydrates, excessive saturated and trans fats"
+ Hypertension,Cardiovascular," Increased thirst, frequent urination","Sodium restriction, potassium intake, maintaining a healthy weight"," Fruits, vegetables, low-sodium options, lean proteins, whole grains, low-fat dairy","
+High-sodium foods, processed foods, foods high in saturated and trans fats, excessive alcohol"
+ Anemia,Hematologic," Increased thirst, frequent urination","Increase iron intake, ensure adequate vitamin B12 and folate"," Red meat, leafy green vegetables, beans, lentils, fortified cereals"," Foods that may inhibit iron absorption (e.g., excessive tea, coffee, calcium-rich foods consumed with iron-rich meals)"
+ Osteoporosis,Skeletal," Increased thirst, frequent urination"," Adequate calcium and vitamin D intake,
+weight-bearing exercise"," Dairy products, leafy green vegetables, fortified foods, fatty fish (for vitamin D)"," Excessive alcohol, caffeine, and sodium, which can interfere with calcium absorption"
+"Celiac
+Disease","
+Autoimmune"," Increased thirst, frequent urination","Strict
+gluten-free diet"," Naturally
+gluten-free grains (rice, quinoa, corn), fruits, vegetables, gluten-free labeled
+products."," Wheat,
+barley, rye, and products containing gluten"
+Type 1 Diabetes,Metabolic Disorder," Increased thirst, frequent urination","Strict blood sugar control through insulin and diet, carbohydrate counting, balanced meals","Non-starchy vegetables, lean proteins, healthy fats, whole grains (in controlled portions), fruits (in controlled
+portions)","Sugary drinks, processed foods, refined carbohydrates, excessive portions of carbohydrates"
+Type 2 Diabetes,Metabolic Disorder," Increased thirst, frequent urination","Blood sugar control through diet, exercise, and medication (if needed), weight management, balanced meals","Non-starchy vegetables, lean proteins, healthy fats, whole grains, fruits (in moderation)","Sugary drinks, processed foods, refined carbohydrates, excessive saturated and trans fats"
+Asthma,Respiratory," Increased thirst, frequent urination","Maintaining a healthy weight, anti-inflammato ry diet may be supportive (not a primary treatment)","Fruits and vegetables (rich in antioxidants), omega-3 fatty acids (from fatty fish), foods rich in
+vitamin D","Processed foods, sulfites (in some foods and drinks), potential food allergens (individual triggers vary)"
+Cystic Fibrosis,Genetic," Increased thirst, frequent urination","High-calorie diet, high-fat diet, adequate protein, pancreatic enzyme replacement, vitamin and mineral supplementatio n","Nutrient-dense foods, full-fat dairy, meats, nuts, seeds, avocado, oils, supplements as prescribed
+(fat-soluble vitamins, enzymes)","Low-fat foods (generally, due to malabsorption), processed foods with limited nutritional value"
+Epilepsy,Neurological," Increased thirst, frequent urination","Ketogenic diet (high-fat, very low-carbohydra te) may be used in some cases under supervision
+strict medical","High-fat foods (oils, butter, heavy cream, avocado), very limited carbohydrates
+(non-starchy vegetables in small amounts), adequate
+protein","High-carbohydr ate foods, sugary foods (in the context of a ketogenic diet),
+processed foods (generally for overall health)"
+Multiple Sclerosis (MS),Autoimmune," Increased thirst, frequent urination","Anti-inflammato ry diet, adequate vitamin D, may benefit from omega-3 fatty acids (not a primary treatment)","Fruits, vegetables, whole grains, lean proteins, healthy fats (olive oil, avocado, fatty fish), vitamin D-rich foods or supplements","Processed foods, saturated and trans fats (potential inflammatory effects), excessive intake of animal fats (some studies suggest a link - more research needed)"
+Parkinson's Disease,Neurological," Increased thirst, frequent urination","Focus on fiber and fluid intake to manage constipation (common), adequate calorie intake, potential role of antioxidants","Fruits, vegetables, whole grains, legumes, nuts, seeds, lean proteins, adequate fluid intake","Processed foods, excessive saturated fats (some studies suggest a link - more research needed), may need adjustments for protein intake depending on medication timing
+(levodopa)"
+Chronic Obstructive Pulmonary Disease (COPD),Respiratory," Increased thirst, frequent urination","Maintaining a healthy weight (avoiding both underweight and overweight), nutrient-dense diet, small frequent meals","Nutrient-dense foods, lean proteins, healthy fats, complex carbohydrates, fruits and vegetables (easy to digest if needed), adequate fluid intake","Processed foods, excessive simple carbohydrates (can lead to increased carbon dioxide production), large meals (can cause bloating and"
+,,,,,"breathing
+difficulties)"
+Liver Cirrhosis,Hepatic,"Fatigue, jaundice, fluid buildup (ascites), confusion","Sodium restriction, fluid management, adequate protein (with caution in advanced stages), avoiding alcohol","Low-sodium foods, adequate calorie intake, protein (as tolerated and advised by doctor), easily digestible foods, fruits and vegetables","High-sodium foods, excessive fluids, alcohol, raw shellfish (increased risk of infection), potentially high protein in advanced stages (needs careful
+management)"
+Anorexia Nervosa,Eating Disorder,"Severely restricted food intake, fear of weight gain, distorted body image","Nutritional rehabilitation is a primary focus, gradual increase in calorie intake, restoring weight and nutritional deficiencies","Nutrient-dense foods across all food groups, balanced macronutrient intake, often requires medical and psychological support","Restrictive behaviors are the focus of avoidance; the goal is to
+re-introduce a variety of foods and normalize eating patterns under medical and psychological
+supervision."
+Bulimia Nervosa,Eating Disorder,"Episodes of binge eating followed by compensatory behaviors (vomiting, laxative use, excessive exercise)","Focus on breaking the binge-purge cycle, establishing regular eating patterns, nutritional rehabilitation","Balanced and regular meals and snacks, nutrient-dense foods across all food groups, often requires medical and psychological support",Foods that trigger binge episodes may need to be addressed with psychological support; the goal is to normalize eating patterns and eliminate compensatory behaviors under medical and psychological supervision.
+Asthma,Respiratory Disorder,"Wheezing, shortness of breath, coughing, chest tightness",Focus on anti-inflammatory foods; ensure adequate Vitamin D intake,"Fruits and vegetables (rich in antioxidants), oily fish (omega-3 fatty acids), whole grains","Processed foods, artificial additives, known allergens (individual triggers vary)"
+Iron Deficiency Anemia,Hematologic Disorder,"Fatigue, weakness, pale skin, dizziness","Increase iron intake, ensure adequate vitamin B12 and folate levels","Red meat, leafy green vegetables, beans, lentils, fortified cereals, nuts, seeds","Foods that inhibit iron absorption (excessive tea, coffee, calcium-rich foods consumed with iron-rich meals)"
+Breast Cancer,"Fruits, vegetables, whole grains, soy","Red/processed meats, alcohol","Fiber, antioxidants, phytoestrogens","Soy may help, not hinder – evidence mixed",Alcohol  High-fat dairy products  Processed meats  Fried and fast foods
+Colorectal Cancer,"Leafy greens, legumes, whole grains","Red/processed meats, alcohol","Fiber, calcium, vitamin D",High-fiber diet reduces recurrence risk,Red and processed meats Refined grains Excessively salty or pickled foods
+Prostate Cancer,"Tomatoes (lycopene), cruciferous vegetables","High-fat dairy, red meat","Lycopene, selenium, vitamin E",Limit calcium to moderate intake,Dairy products (high-fat) Saturated fats High calcium intake
+Lung Cancer,"Fruits, green tea, fatty fish","Processed/junk food, high-sugar items","Antioxidants, omega-3s",Smoking cessation is still #1 priority,Processed meats Fried foods Excess alcohol
+Pancreatic Cancer,"Berries, leafy greens, lean proteins",Sugary/fatty foods,"Antioxidants, B vitamins","Small, frequent meals help digestion",High-fat diets Sugary drinks Excessive alcohol
+Stomach Cancer,"Garlic, ginger, turmeric, vegetables","Pickled/smoked foods, excess salt","Antioxidants, vitamin C",Helicobacter pylori control is essential,Salt-preserved foods Processed meats Alcohol Highly spicy foods
+Liver Cancer,"High-fiber plant foods, green tea","Alcohol, fatty foods","Antioxidants, vitamin E, selenium","Manage liver function, low sodium diet",Alcohol Unhealthy oils Processed and high-sugar foods
+Ovarian Cancer,"Fiber-rich foods, soy, low-fat dairy","Saturated fats, added sugars","Fiber, flavonoids, vitamin D",Hydration is important during treatment,Trans fats Dairy (high-fat) Excess alcohol
+Leukemia,"Protein-rich foods, fruits, whole grains",Raw fish/meat (due to immune risk),"Iron, B12, folate",Focus on immune-supporting nutrition,Processed sugars Highly processed foods
+Skin Cancer,"Bright-colored fruits/veggies, nuts","Excess alcohol, fried foods","Vitamin C, E, beta-carotene",Avoid vitamin A megadoses from supplements,Excess alcohol Processed meats Sugary foods
